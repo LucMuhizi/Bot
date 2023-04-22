@@ -1,0 +1,22 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "Bot that creates and upload code daily",
+  "main": "index.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucMuhizi/Botkit.git"
+  },
+  "author": "Luc Muhizi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucMuhizi/Botkit/issues"
+  },
+  "homepage": "https://github.com/LucMuhizi/Botkit#readme",
+  "dependencies": {
+    "botkit": "^4.15.0"
+  }
+}
